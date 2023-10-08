@@ -8,7 +8,7 @@ let gameFrame = 1
 let frameRate = 7
 
 const playerImage = new Image();
-playerImage.src = 'Photos/punch.png';
+playerImage.src = 'punch.png';
 context.drawImage(playerImage,0,0 )
 let frameX = 0
 let spriteLength = 9
